@@ -1,4 +1,4 @@
-package com.appointmentsystem.appointment_system;
+package com.appointmentsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
