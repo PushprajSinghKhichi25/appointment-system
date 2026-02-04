@@ -14,6 +14,8 @@ public class ApiResponse<T> {
     private boolean success;
     private String message;
     private T data;
+
+
 }
 // this class is reusable. generic DTO used to standardize API responses by wrapping success status, message. eg.
 //return new ApiResponse<>(true, "Service created", service);
